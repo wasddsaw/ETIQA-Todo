@@ -1,9 +1,9 @@
 # ETIQA ToDo Mobile Application
-Lindungi is a pre-diagnosis application for noise induced hearing loss and it is built with artificial intelligence.
+Mobile App Developer Assessment
 
 ### Documentation
 
-* [UI/UX Wireframe](https://www.figma.com/file/GtnmzHVpyuCXPhkxiO99ui/Lindungi-Mobile-App?node-id=0%3A1&t=MRSVO2iPUPKauljC-1)
+<img width="530" alt="Screenshot 2023-05-17 at 11 04 40 AM" src="https://github.com/wasddsaw/ETIQA-Todo/assets/23319632/86079f9c-75c1-4d1d-81d7-f187d5ca08fe">
 
 ## Getting Started
 
@@ -34,7 +34,6 @@ Go to project root and execute the following command in console to get the requi
 
 ```zsh
 % flutter pub get
-% cp .env.example .env
 ```
 
 ## Built with
